@@ -1,0 +1,4 @@
+As an user, I can download songs
+As an user, I can pause and play audio from different file formats
+As an user, I can add music from the filesystem into a library, playlist or into a queue
+As an user, I can adjust volume, seek positions in the audio and move to the next/previous song in the queue/library/playlist
