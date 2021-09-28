@@ -7,3 +7,6 @@ This is a CLI audio player for Unix systems. It can currently play MP3, WAV, FLA
 - [SDL-Mixer-X](https://github.com/WohlSoft/SDL-Mixer-X)
 - [Ncurses](https://github.com/mirror/ncurses)
 
+## Demo
+https://user-images.githubusercontent.com/35245440/135142068-558fb78f-f90d-4aa6-af1b-650505b77236.mp4
+
